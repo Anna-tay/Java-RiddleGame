@@ -2,7 +2,7 @@
 
 This was my first time writing in java and it was so much fun. I wrote a small riddle game to be able to learn classes and the right syntax for java. This program asks you if you want to play then gives you a riddle to solve. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/JdCTPNX9SEc)
 
 # Development Environment
 
